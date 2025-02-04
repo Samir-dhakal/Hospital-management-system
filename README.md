@@ -96,3 +96,5 @@ This project is open-source and available for personal and educational use under
 ---
 
 Feel free to contribute or suggest improvements to make this project more robust!
+
+Created by -Samir dhakal.
